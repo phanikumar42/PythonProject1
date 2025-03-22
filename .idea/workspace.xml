@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="733591f4-3c22-4a2e-aec4-3573cce8cb65" name="Changes" comment="this is first commit and pust to Git Repository.">
-      <change afterPath="$PROJECT_DIR$/Tester2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tester3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tester4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +59,7 @@
     "Python.Tester1.executor": "Run",
     "Python.Tester2.executor": "Run",
     "Python.Tester3.executor": "Run",
+    "Python.Tester5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -131,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742608972098</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="this is first commit and pust to Git Repository.">
+      <option name="closed" value="true" />
+      <created>1742609373220</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742609373220</updated>
+    </task>
+    <task id="LOCAL-00007" summary="this is first commit and pust to Git Repository.">
+      <option name="closed" value="true" />
+      <created>1742609385385</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742609385385</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
